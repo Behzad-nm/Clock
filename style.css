@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+header {
+  font-family: sans-serif;
+  font-size: 1em;
+  color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  background: #00008B;
+}
+
+main {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#analog {
+  margin-bottom: 20px;
+}
+
+#digital {
+  font-size: 3em;
+}
